@@ -45,6 +45,7 @@ def send_telegram_message(message):
         print("An error occurred in sending the alert message via Telegram")
         print(e)
         return False
+    
 while True:
     # Step 1
     sensor_value = get_sensor_value_from_pin("A0")    
