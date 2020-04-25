@@ -35,7 +35,7 @@ You can also use your **Raspberry Pi** as your VPS and access it using puTTY (fo
 #### Setup your Telegram
 >To setup your Telegram [click here](https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/documents/Remote%20Temperature%20Monitoring%20using%20Telegram.pdf)
 
-#### Receiving Alerts
+#### Sending and Receiving Alerts
 Before running the code make sure you have installed python and the nescessary libraries for running the code in your VPS
 Update the packages on Ubuntu Server using the following command,
 ```python
