@@ -2,7 +2,7 @@
 
 Sending an alert on Telegram when Temperature Crosses Threshold
 
-In this project the code fetchs the temperature data collected by Bolt IoT wifi module and send alert messege over telegram if the temperature
+In this project the code fetches the temperature data collected by Bolt IoT wifi module and send alert messege over telegram if the temperature
 value crosses a certain threshold.
 
 
